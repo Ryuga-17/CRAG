@@ -1,4 +1,4 @@
-# CRAG (Local, Free, Auto-Ingest)
+# CRAG 
 
 A practical local implementation of **Corrective Retrieval-Augmented Generation (CRAG)** with:
 
